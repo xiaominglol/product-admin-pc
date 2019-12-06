@@ -1,5 +1,5 @@
 {
-  "name": "product-admin-pc411",
+  "name": "product-admin-pc",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,7 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "core-js": "^3.4.3",
+    "core-js": "^3.4.7",
+    "element-ui": "^2.13.0",
     "vue": "^2.6.10"
   },
   "devDependencies": {

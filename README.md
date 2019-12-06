@@ -1,4 +1,4 @@
-# product-admin-pc411
+# product-admin-pc
 
 ## Project setup
 ```
